@@ -2,6 +2,8 @@
 
 # 🚧 Under Construction 🚧
 
+
+<a href="https://psnprofiles.com/KelseaWasHere"><img src="https://card.psnprofiles.com/2/KelseaWasHere.png" border="0"></a>
 <!--
 **KelseaWasHere/KelseaWasHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
