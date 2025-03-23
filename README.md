@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at **Florida Polytechni
 
 ## 🏆 Notable Projects  
 - 🏅 [Elemental Isles](https://github.com/nova-thomas/Game-1-Final-Group-5) – A Unity-based FPS that won **3rd place** at the **Florida Polytechnic Game Expo Fall 2024**  
-- 🔮 **Predictive Policing Software** – Developed for the **Polk County Sheriff’s Office** using **React, CSS, and Python** as the **Design Lead** for the project 
+- 🔮 **Predictive Policing Software** – Developed for the **Polk County Sheriff’s Office** using **React and Python** as the **Design Lead** for the project 
 - 🔐 [Mobile Security Awareness Training Software](https://github.com/KelseaWasHere/MobileSecuritySoftware) – Built with **Java, JavaFX, and SQL**  
 
 ## 🎯 Current Work  
