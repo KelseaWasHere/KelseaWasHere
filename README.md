@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at **Florida Polytechni
 I'm currently developing **Rep Run**, a mobile/desktop app created in **Unity** to keep track of workout progress and play a fun game in between reps.  
 
 ## 📫 Connect with Me  
-🔗 [GitHub](https://github.com/KelseaWasHere) | 🎓 [LinkedIn]((https://www.linkedin.com/in/kelseacanaday/)) | ✉️ [Email](mailto:kelseacanaday@gmail.com)  
+🔗 [GitHub](https://github.com/KelseaWasHere) | 🎓 [LinkedIn](https://www.linkedin.com/in/kelseacanaday/) | ✉️ [Email](mailto:kelseacanaday@gmail.com)  
 
 Thanks for stopping by! 👋
 
