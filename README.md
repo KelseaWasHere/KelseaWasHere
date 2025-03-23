@@ -9,9 +9,9 @@ Welcome to my GitHub! I'm a **Computer Science** student at **Florida Polytechni
 - **Software Engineering:** Full-stack development with **React, Java, C++, Python, and SQL**  
 
 ## 🏆 Notable Projects  
-- 🏅 **Elemental Isles** – A Unity-based FPS that won **3rd place** at the **Florida Polytechnic Game Expo Fall 2024**  
+- 🏅 [Elemental Isles](https://github.com/nova-thomas/Game-1-Final-Group-5) – A Unity-based FPS that won **3rd place** at the **Florida Polytechnic Game Expo Fall 2024**  
 - 🔮 **Predictive Policing Software** – Developed for the **Polk County Sheriff’s Office** using **React, CSS, and Python** as the **Design Lead** for the project 
-- 🔐 **Mobile Security Awareness Training Software** – Built with **Java, JavaFX, and SQL**  
+- 🔐 [Mobile Security Awareness Training Software](https://github.com/KelseaWasHere/MobileSecuritySoftware) – Built with **Java, JavaFX, and SQL**  
 
 ## 🎯 Current Work  
 - 🏋 **Rep Run** - A mobile/desktop app created in **Unity** to keep track of workout progress and play a fun game in between reps.
