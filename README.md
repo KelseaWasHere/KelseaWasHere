@@ -2,7 +2,7 @@
 
 🎮 **Game Developer | Software Engineer | Florida Polytechnic University Senior**  
 
-Welcome to my GitHub! I'm a **Computer Science** student at **Florida Polytechnic University**, specializing in **Video Game Development**. 
+Welcome to my GitHub! I'm a **Computer Science** graduate from **Florida Polytechnic University**, specializing in **Video Game Development**. 
 
 ## 🛠️ What I Do  
 - **Game Development:** 2D & 3D games using **Unity (C#)** and **Unreal Engine (Blueprints & C++)**  
@@ -14,8 +14,9 @@ Welcome to my GitHub! I'm a **Computer Science** student at **Florida Polytechni
 - 🔐 [Mobile Security Awareness Training Software](https://github.com/KelseaWasHere/MobileSecuritySoftware) – Built with **Java, JavaFX, and SQL**  
 
 ## 🎯 Current Work  
-- 🏋 **Rep Run** - A mobile/desktop app created in **Unity** to keep track of workout progress and play a fun game in between reps.
-- 🔥🌊🗿🌀 **Elemental Isles 2** (working name) - A **Unity-based multiplayer game** currently in development for the **Florida Polytechnic Game Expo Spring 2025**
+- 💻 I'm currently working as a **Developer** at **Greenshades Software**
+- 💐 **The Language of Flowers** - A visual novel video game created in **Unity.** Create **bouquets of flowers** that match with your customers' **needs!**
+
 
 ## 📫 Connect with Me  
 🔗 [GitHub](https://github.com/KelseaWasHere) | 🎓 [LinkedIn](https://www.linkedin.com/in/kelseacanaday/) | ✉️ [Email](mailto:kelseacanaday@gmail.com)  
