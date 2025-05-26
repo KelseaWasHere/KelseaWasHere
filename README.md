@@ -27,6 +27,6 @@ Thanks for stopping by! 👋
 <p align="center">
   <a href="https://psnprofiles.com/KelseaWasHere">
     <img src="https://card.psnprofiles.com/2/KelseaWasHere.png" border="1">
-    Just for fun, here are my PSN stats!
   </a>
+  Just for fun, here are my PSN stats!
 </p>
